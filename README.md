@@ -11,10 +11,9 @@ Actualmente me formo como Analista de Datos, poniendo en práctica mis conocimie
 
 **Programación y Análisis** Python · Pandas · Numpy · Estadística 
 **Extracción y BBDD** SQL · APIs · Web Scraping (BeautifulSoup, Selenium) 
-**Visualización y BI** Power BI · Tableau · Storytelling Visual 
+**Visualización en Python**	Matplotlib · Seaborn
+**Visualización y reporting** Power BI · Tableau · Storytelling Visual 
 **Análisis** A/B Testing · Pruebas de Hipótesis · EDA
-
-Tecnologías: Python, Pandas, Numpy, Matplotlib, Seaborn, SQL, Power BI y Tableau.
 
 **________________________________________________________________________________________________________________________________________________**
 
