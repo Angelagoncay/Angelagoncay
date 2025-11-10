@@ -5,4 +5,4 @@ Esta trayectoria, impulsada por una mente neurodivergente orientada a la detecci
 
 Actualmente me formo como Analista de Datos, poniendo en práctica mis conocimientos técnicas con Python, SQL, Power BI y Tableau para transformar la complejidad en storytelling visualmente disruptivos y útiles. Mi objetivo: generar claridad, comprensión, prevención y aprendizaje en la intersección entre datos y comportamiento humano.
 
-**_______________________________________________________________________________________________________________________________________________________**
+**________________________________________________________________________________________________________________________________________________**
